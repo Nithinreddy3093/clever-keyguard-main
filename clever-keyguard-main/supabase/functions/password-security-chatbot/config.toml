@@ -1,0 +1,4 @@
+
+project_id = "qrrtpqeqkstrokuswekv"
+app_version = "1"
+endpoint = "https://qrrtpqeqkstrokuswekv.supabase.co/functions/v1/password-security-chatbot"
